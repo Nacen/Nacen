@@ -1,9 +1,17 @@
 # Hi there 👋 I'm Vincent Nadal
 
-## Work Experience & Skills
+## Work Experience
 
 * 2019-Present
+
 Customer Service Representative
+
+## Skills
+
+* HTML / CSS / Javascript
+* React
+
+
 
 <!--
 **Nacen/Nacen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
