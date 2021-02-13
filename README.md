@@ -10,7 +10,7 @@ Customer Service Representative
 
 * HTML / CSS / Javascript
 * React
-
+* Node
 
 
 <!--
