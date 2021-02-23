@@ -1,16 +1,22 @@
 # Hi there 👋 I'm Vincent Nadal
 
+I like solving problems to help people and I like to do it with technology as it augments our capability where we can accomplish things efficiently and effectively. I’m self-driven and passionate about technology especially when it comes to Web development, I'm looking to shift careers from a customer service representative to a Web Developer. 
+🌱 I’m currently learning Full Stack Web Development on my free time.
+
 ## Work Experience
 
 * 2019-Present
 
 Customer Service Representative
 
-## Skills
+## Technical Skills
 
+### Programming Languages
 * HTML / CSS / Javascript
 * React
-* Node
+* Node.js
+* SCSS
+
 
 
 <!--
